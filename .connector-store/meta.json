@@ -1,0 +1,20 @@
+{
+    "name": "PayPal",
+    "owner": "WSO2",
+    "category": "Billing and Accounting",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/PayPal+Connector",
+    "description": "The PayPal connector allows you to access the API for PayPal, an international e-Commerce business allowing payments and money transfers to be made through the Internet. Online money transfers serve as electronic alternatives to paying with traditional paper methods, such as checks and money orders. The PayPal connector uses the PayPal REST API to perform operations through PayPal, such as making payments and looking up authorizations.",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "\"ESB 4.9.0\""
+            ],
+            "isHidden": false
+        }
+    ]
+}
